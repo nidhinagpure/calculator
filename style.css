@@ -1,0 +1,67 @@
+.calbody{
+    height: 400px;
+    width: 600px;
+    background-color: #0d0d0d;
+    margin: 20px auto;
+    margin-top: 60px;
+    padding: 20px;
+    border: solid;
+    border-color:  #d9d9d9; 
+}
+
+.input{
+    background-color: #4d4d4d;
+    width: 580px;
+    padding: 5px  10px;
+    display: block;
+    padding: 0 auto;
+    color: white;
+    font-size: 40px;
+    text-align: end;
+    box-shadow: #8c8c8c;
+    box-sizing: 4px;
+    border: solid;
+
+}
+  .btn-body{
+    display: flex;
+    flex-direction: column;
+    background-color:#0d0d0d;
+    height: 300px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: center;
+    justify-content: space-around;
+  }
+.btn{
+    width: 70px;
+    text-align: center;
+    padding: 5px auto;
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 7px;
+}
+.div-btn{
+    background-color:#4d4d4d;
+    color: white;
+}
+
+.in-btn{
+    background-color: #8c8c8c;
+    color: white;
+}
+
+.btn:hover{
+    border-color: #999999;
+    border: dotted;  
+}
+
+.calbody:hover{
+    border-radius: 20px;
+    box-shadow: #000000;
+}
+.equal{
+    background: #00bfff;
+}
+
